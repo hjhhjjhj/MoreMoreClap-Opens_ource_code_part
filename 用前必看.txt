@@ -1,0 +1,15 @@
+1.如何运行程序？
+	电脑里安装最新版的python3，然后双击main.py运行，或者用IDLE打开main.py然后按F5运行
+2.电脑有python，但是运行出错怎么办？
+	如果有，可以运行编译后的程序（前提是该版本有编译版本）
+	盲猜你没安装easyGUI，可以用pip来安装
+	(1)同时按下win+R键，输入cmd，回车
+	(2)先输入pip list，然后按回车，康康它列出的列表里有没有easygui这个模块
+	(3)没有的话，就输入pip install easygui
+	(4)等它安装好后在运行一遍试一试。
+	也可能是python文件缺失，重新补全一下python
+	也可能是系统变量问题
+3.如以上方法不适用，请百度如何按照easygui模块。（或者等我把它更新成不用easygui模块的程序（（（咕咕咕
+4.没了
+5.bug反馈：发送标题为“More More Clap漏洞反馈”的邮件至邮箱3168129969@qq.com
+6.yeeeeeeeeeeeeeeeeeee~
